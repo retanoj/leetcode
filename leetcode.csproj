@@ -45,14 +45,17 @@
     <Compile Include="HappyNumber.cs" />
     <Compile Include="IncreasingTripletSubsequence.cs" />
     <Compile Include="KthSmallestInBST.cs" />
+    <Compile Include="LongestIncreasingPathInAMatrix.cs" />
     <Compile Include="LongestIncreasingSubsequence.cs" />
     <Compile Include="LRUCacheCls.cs" />
+    <Compile Include="MaxSubSequence.cs" />
     <Compile Include="MinMaxHeap.cs" />
     <Compile Include="MoveZeroesCls.cs" />
     <Compile Include="OddEvenLinkedList.cs" />
     <Compile Include="PalindromeLinkedList.cs" />
     <Compile Include="PalindromeNumber.cs" />
     <Compile Include="PatchingArrayCls.cs" />
+    <Compile Include="OrderTree.cs" />
     <Compile Include="PreorderSerializationOfABinaryTreeCls.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -62,9 +65,12 @@
     <Compile Include="RecoverBinarySearchTree.cs" />
     <Compile Include="RemoveElementCls.cs" />
     <Compile Include="SearchInsertPositionCls.cs" />
+    <Compile Include="SymmetricTree.cs" />
     <Compile Include="TestCls.cs" />
+    <Compile Include="TwoSumCls.cs" />
     <Compile Include="UglyNumber.cs" />
     <Compile Include="UglyNumberII.cs" />
+    <Compile Include="ValidAnagram.cs" />
     <Compile Include="WordPatternCls.cs" />
   </ItemGroup>
   <ItemGroup>
