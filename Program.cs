@@ -8,8 +8,13 @@ namespace leetcode
     {
         static void Main(string[] args)
         {
-            OrderTree o = new OrderTree();
-            o.test();
+            int[] nums = new int[] { 0,0,1,0,0,1};
+            SortColorsCls s = new SortColorsCls();
+            s.SortColors(nums);
+            foreach (int n in nums)
+            {
+                Console.WriteLine(n);
+            }
         }
     }
 }
